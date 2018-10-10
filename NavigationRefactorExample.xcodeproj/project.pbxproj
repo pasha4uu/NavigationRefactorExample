@@ -15,6 +15,8 @@
 		6592283F216E91D900468D36 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6592283E216E91D900468D36 /* main.m */; };
 		65922849216E91DA00468D36 /* NavigationRefactorExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 65922848216E91DA00468D36 /* NavigationRefactorExampleTests.m */; };
 		65922854216E91DA00468D36 /* NavigationRefactorExampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 65922853216E91DA00468D36 /* NavigationRefactorExampleUITests.m */; };
+		65922862216E96EF00468D36 /* Green.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65922861216E96EF00468D36 /* Green.storyboard */; };
+		65922864216E989800468D36 /* Gray.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65922863216E989800468D36 /* Gray.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		6592284F216E91DA00468D36 /* NavigationRefactorExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationRefactorExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65922853216E91DA00468D36 /* NavigationRefactorExampleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NavigationRefactorExampleUITests.m; sourceTree = "<group>"; };
 		65922855216E91DA00468D36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65922861216E96EF00468D36 /* Green.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Green.storyboard; sourceTree = "<group>"; };
+		65922863216E989800468D36 /* Gray.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Gray.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +114,8 @@
 				6592283A216E91D900468D36 /* LaunchScreen.storyboard */,
 				6592283D216E91D900468D36 /* Info.plist */,
 				6592283E216E91D900468D36 /* main.m */,
+				65922861216E96EF00468D36 /* Green.storyboard */,
+				65922863216E989800468D36 /* Gray.storyboard */,
 			);
 			path = NavigationRefactorExample;
 			sourceTree = "<group>";
@@ -235,9 +241,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65922862216E96EF00468D36 /* Green.storyboard in Resources */,
 				6592283C216E91D900468D36 /* LaunchScreen.storyboard in Resources */,
 				65922839216E91D900468D36 /* Assets.xcassets in Resources */,
 				65922837216E91D800468D36 /* Main.storyboard in Resources */,
+				65922864216E989800468D36 /* Gray.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
