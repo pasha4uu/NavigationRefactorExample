@@ -17,6 +17,31 @@
 - (void)viewDidLoad {
   [super viewDidLoad];
   NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+  NSLog(@"po p o p   o o ");
+
   // Do any additional setup after loading the view, typically from a nib.
 }
 
